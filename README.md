@@ -13,7 +13,7 @@
 #### :arrow_double_down: [iOS 大陆用户下载教程](https://appshare.onelink.me/7uiT/1c9f9287)
 #### :arrow_double_down: [iOS 海外商店版本](https://appshare.onelink.me/7uiT/33e7470c)
 #### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/fa80bb40)
-#### :arrow_double_down: [Windows 版本.zip](https://cf-ipfs.com/ipfs/QmNww74P9ZWakbzsqrojtofRmvjT8Pf3BoPxqYE6qrkrjA)
+#### :arrow_double_down: [Windows 版本.zip](https://github.com/GODPublic/DOWN/raw/main/VPN.zip)
 #### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
 
 ----
