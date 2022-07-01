@@ -12,7 +12,7 @@
 ### 点击右上角在浏览器打开下载
 #### :arrow_double_down: [iOS 大陆用户下载教程](https://appshare.onelink.me/7uiT/1c9f9287)
 #### :arrow_double_down: [iOS 海外商店版本](https://appshare.onelink.me/7uiT/33e7470c)
-#### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/fa80bb40)
+#### :arrow_double_down: [Android 版本.APK](https://github.com/GODPublic/DOWN/raw/main/letsvpn-latest.apk)
 #### :arrow_double_down: [Windows 版本.zip](https://github.com/GODPublic/DOWN/raw/main/win.zip)
 #### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
 
